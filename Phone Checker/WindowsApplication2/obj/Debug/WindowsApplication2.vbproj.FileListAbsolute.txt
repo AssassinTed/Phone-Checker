@@ -1,0 +1,2 @@
+C:\Users\AssassinTed\Desktop\Git\Awesome-Browser\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\AssassinTed\Desktop\Git\Awesome-Browser\Phone Checker\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
